@@ -1,0 +1,3 @@
+﻿  Actor.cpp
+c:\users\omar\desktop\frackman skeleton\frackman\actor.cpp(91): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+  FrackMan.vcxproj -> C:\Users\omar\Desktop\FrackMan Skeleton\Debug\FrackMan.exe
